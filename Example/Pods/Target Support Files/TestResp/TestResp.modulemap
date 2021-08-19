@@ -1,0 +1,6 @@
+framework module TestResp {
+  umbrella header "TestResp-umbrella.h"
+
+  export *
+  module * { export * }
+}
